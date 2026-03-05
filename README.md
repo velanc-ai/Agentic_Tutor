@@ -91,4 +91,4 @@ Contributions are welcome! Whether it's adding new agent roles, improving the UI
 **GitHub**: [@velanc-ai](https://github.com/velanc-ai)
 
 ---
-*Created with ❤️ by the Agentic_Tutor team.*
+*This project is not completely created by me there are many references that I have cloned to build this project - Kindly contact me for the reference *
